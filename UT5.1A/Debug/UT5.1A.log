@@ -1,0 +1,5 @@
+﻿  UT5.1A.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1A\PR5.1A\Pay.cpp(99,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1A\PR5.1A\Pay.cpp(124,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1A\Debug\UT5.1A.lib and object D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1A\Debug\UT5.1A.exp
+  UT5.1A.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1A\Debug\UT5.1A.dll
